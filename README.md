@@ -1,6 +1,4 @@
 ## Hello, World!!
 
-<p align="left"> 
-  <img height="400px" src="https://github.com/mihix9375/mihix9375/blob/main/output/details.svg"></img>
-  <img height="400px" src="https://github.com/mihix9375/mihix9375/blob/main/output/metrics.base.svg"></img>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=onedark)
