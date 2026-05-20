@@ -1,5 +1,8 @@
 ## Hello, World!!
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mihix9375&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mihix9375&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2025)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
